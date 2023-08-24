@@ -229,7 +229,4 @@ footer{
     color: var(--text-color);
     text-decoration: none;
 }
-.social a:hover{
-    transform: translateY(-8px);
-    cursor:pointer;
-}
+
